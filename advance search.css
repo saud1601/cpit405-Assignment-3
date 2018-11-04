@@ -1,0 +1,120 @@
+body{
+
+    background-color: black
+
+}
+h1{
+    
+   background-color:gray
+
+    
+}
+h1{
+    
+    color: brown
+    
+}
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    padding-top: 2%
+   }
+
+
+
+h1{
+    padding-left: 35%
+    
+}
+h1{
+    border-style: double;
+    border-width: 10px;
+    
+}
+h3{
+    background-color: rgb(90, 88, 88);
+    padding :10px 490px ;
+}
+form{
+    color: aliceblue
+}
+
+form{
+    border-style: double;
+    border-width: 5px;
+    
+}
+
+h2{
+    color: aliceblue
+}
+#x1{
+    background-color: rgba(68, 66, 66, 0.986);
+    margin-left: 10%;
+    width: 30%
+}
+
+#x2{
+    background-color: rgba(68, 66, 66, 0.986);
+    margin-left: 4.6%;
+    width: 30%
+}
+
+ 
+#x3{
+    background-color: rgba(68, 66, 66, 0.986);
+    margin-left: 9.5%
+    ;
+    width: 30%
+}
+#x4{
+    
+    background-color: rgba(68, 66, 66, 0.986);
+    width: 15%;
+    margin-left: 4.6%
+}
+ #x4{
+    color: aliceblue;
+    width: 30%
+
+ }
+
+ #x5{
+    
+    background-color: rgba(68, 66, 66, 0.986);
+    width: 15% ;
+    margin-left: 7%
+}
+ #x5{
+    color: aliceblue;
+    width: 30%
+
+ }
+
+ #x6{
+    
+    background-color: rgba(68, 66, 66, 0.986);
+    width: 15%;
+    margin-left: 6.45%;
+    
+}
+ #x6{
+    color: aliceblue ;
+    width: 30%
+ }
+ h2{
+     background-color: gray
+ }
+ 
+ 
+
+ 
+ #r1{
+   
+    color: red;
+        width: 10%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+    
+ }

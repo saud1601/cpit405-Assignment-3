@@ -1,0 +1,96 @@
+body{
+
+    background-color: black
+
+}
+h1{
+    
+   background-color:gray
+
+    
+}
+h1{
+    
+    color: brown
+    
+}
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    padding-top: 2%
+   }
+
+
+
+h1{
+    padding-left: 35%
+    
+}
+h1{
+    border-style: double;
+    border-width: 10px;
+    
+}
+form{
+    border-style: double;
+    border-width: 5px;
+    border-color:gray
+}
+
+    
+#lo{
+    background-color: rgb(82, 82, 82)
+    
+}
+
+#s:hover{
+   
+    background-color: rgba(41, 37, 37, 0.986)
+}
+#s:hover{
+    color: rgb(255, 255, 255)
+}
+::placeholder{
+    color:white
+}
+
+button{
+    margin-left: 30%
+    
+}
+
+
+button:hover, button:active {
+    background-color: rgba(41, 37, 37, 0.986);
+}
+button:hover, button:active {
+    color: white
+}
+a{
+    
+    color: gray
+}
+a{
+    margin-left: 45%
+}
+a{
+    background-color: rgba(41, 37, 37, 0.986)
+}
+a{
+    color:white
+}
+
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 15px 0px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: rgba(41, 37, 37, 0.986);
+}
+input {
+    width: 100%;
+}
