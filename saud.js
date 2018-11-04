@@ -282,8 +282,8 @@ function sortbySize(a, b) {
     images.sort(function (a, b) {
         var x = a.size;
         var y = b.size;
-        if (x < y) { return -1; }
-        if (x > y) { return 1; }
+        if (x < y) { return 1; }
+        if (x > y) { return -1; }
         return 0;
     });
         
