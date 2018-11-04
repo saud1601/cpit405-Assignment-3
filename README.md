@@ -33,8 +33,8 @@
 
 
 
-
+<script src = "main.js"></script>
 </body>
 
-<script src = "main.js"></script>
+
  
